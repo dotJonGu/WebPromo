@@ -1,0 +1,72 @@
+
+body {
+	background-attachment: fixed;
+	background-image: url("spiderlily.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+p {
+	
+
+}
+
+#SpP {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.Em {
+	font-family: monospace;
+	font-size: 80px;
+	width: 25%px;
+	
+}
+
+.Des{
+
+	font-family: monospace;
+	font-size: 40px;
+	width: 300%px;
+	border: 10px black;
+	margin-left: 500px;
+	margin-right: 500px;
+
+	
+}
+
+.JPtitle{
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	
+	margin-left: 300px;
+	margin-right: 0px;
+	display: inline-block;
+
+}
+
+.ENtitle{
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	
+	line-height: 48px;
+	margin-right: 170px;
+	display: inline-block;
+
+}
+
+.organizer{
+	
+	text-align: center;
+}
+
+#album {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
